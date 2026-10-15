@@ -1,0 +1,11 @@
+base = 4
+fromage = 800
+eau = 2
+pain = 400
+ail = 2
+convive = input("ghfgjb")
+fromage = fromage*convive/base
+eau = eau*convive/base
+pain = pain*convive/base
+ail = ail*convive/base
+print(-600 gr )
